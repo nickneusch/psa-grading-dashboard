@@ -1,5 +1,5 @@
 # psa-grading-dashboard
 
-Description: This Dashboard provides valuable insight into the client's grades of sports cards. I imported various datasets from PSA, cleaned and transformed them using Python, and created an interactive visualization using Tableau. The purpose of the visualization is to provide my clients with information on which types of their cards are grading the best, which allows them to optimize their future orders.
+My friend owns a sports cards business. Within his business, he submits cards for grading to PSA (Professional Sports Authenticator). Cards are graded on a scale from 1-10, based on its centering, corners, edges, and surface condition. Cards that grade higher are worth exponentially more, however, there is a fee to grade a card of ~$20 per card. Low grades can decrease the value of the card in addition to the fee. Therefore, it is important to be selective when deciding which cards to submit. I created this dashboard to help my friend use analytics to help guide his decision-making.
 
 Date: July 2024
