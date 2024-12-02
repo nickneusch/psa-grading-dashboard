@@ -4,11 +4,8 @@ I developed an interactive dashboard to optimize sports card submissions to PSA 
 
 Currently only configured for my friend, but may restructure for other users in the future.
 
-![PSA Grading Analytics Dashboard](https://github.com/user-attachments/assets/bae9965d-ddf1-421a-8230-8cf000d5bd24)
 *Figure 1: Dashboard for guiding card submissions to PSA by analyzing grading potential and value.*
 <img src="https://github.com/user-attachments/assets/bae9965d-ddf1-421a-8230-8cf000d5bd24" alt="PSA Grading Analytics Dashboard" width="600">
-
-
 
 ## Motivation
 
