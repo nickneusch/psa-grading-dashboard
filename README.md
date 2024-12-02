@@ -1,6 +1,6 @@
 # psa-grading-dashboard
 
-I developed an interactive dashboard to optimize sports card submissions to PSA by using analytics to assess grading potential and maximize value while minimizing costs. Analytics were focused on the "Gem Rate" (percentage of cards that graded as a "gem", which is a 10) because these are the most profitable cards.
+I developed an interactive dashboard to optimize sports card submissions to PSA by using analytics to assess grading potential and maximize value while minimizing costs. Analytics were focused on the "Gem Rate" (percentage of cards that graded as a "gem", which is a 10/10) because these are the most profitable cards.
 
 Currently only configured for my friend, but may restructure for other users in the future.
 
