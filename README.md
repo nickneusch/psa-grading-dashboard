@@ -12,7 +12,7 @@ My friend, Taylor, owns a sports cards business. Within his business, he submits
 
 ## Workflow
 1. Download the data for each submission from PSA. A submission is a group of cards submitted from grading in the same order.
-2. Clean the data with a python script. Taylor allows other people to submit their cards in his orders. Therefore, I only focused on data from his cards.
+2. Clean the data with a python script. Taylor allows other people to submit their cards in his orders. Therefore, the data was only used from his cards.
 3. Process the data with a python script. The data downloaded from PSA lists the card description, but does not distinguish its qualities seperately (ex. 2020 PANINI SELECT 61 JUSTIN JEFFERSON DIE-CUT PURPLE PRIZM). The description was parsed to extract the year, brand, card number, variation/parallel, and player name.
 4. Imported the data into Tableau to create an interactive dashboard. Analytics were focused on the "Gem Rate" (percentage of cards that graded as a "gem", which is a 10) because these are the most profitable. Data was analyzed by order number, brands, parallels, sports, and players. Filters added to introduce new perspectives of viewing the data. Filters include order number, brand, year, parallel, and player name.
 
