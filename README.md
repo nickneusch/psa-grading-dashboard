@@ -1,6 +1,6 @@
 # psa-grading-dashboard
 
-I developed a dashboard to optimize sports card submissions to PSA by using analytics to assess grading potential and maximize value while minimizing costs.
+I developed an interactive dashboard to optimize sports card submissions to PSA by using analytics to assess grading potential and maximize value while minimizing costs.
 
 Currently only configured for my friend, but may restructure for other users in the future.
 
@@ -15,7 +15,8 @@ My friend owns a sports cards business. Within his business, he submits cards fo
 1. Download the data for each submission from PSA. A submission is a group of cards submitted from grading in the same order.
 2. Clean the data with a python script. My friend allows other people to submit their cards in his orders. Therefore, I only focused on data my friend's cards.
 3. Process the data with a python script. The data downloaded from PSA lists the card description, but does not distinguish its qualities seperately (ex. 2020 PANINI SELECT 61 JUSTIN JEFFERSON DIE-CUT PURPLE PRIZM). I parsed the description to extract the year, brand, card number, variation/parallel, and player name.
-4. Imported the data into Tableau to create a dashboard. Analytics were focused on the "Gem Rate" (percentage of cards that graded as a "gem", which is a 10) because these are the most profitable. Data was analyzed by order number, brands, parallels, sports, and players. Filters added to introduce new perspectives of viewing the data. Filters include order number, brand, year, parallel, and player name.
+4. Imported the data into Tableau to create an interactive dashboard. Analytics were focused on the "Gem Rate" (percentage of cards that graded as a "gem", which is a 10) because these are the most profitable. Data was analyzed by order number, brands, parallels, sports, and players. Filters added to introduce new perspectives of viewing the data. Filters include order number, brand, year, parallel, and player name.
+![Screenshot 2024-12-02 at 12 04 12 PM](https://github.com/user-attachments/assets/bf12df75-ace4-46bb-aee1-7f54522a53a4)
 
 ## 
 
