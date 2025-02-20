@@ -6,6 +6,8 @@ Currently only configured for my friend, but may restructure for other users in 
 
 <img src="https://github.com/user-attachments/assets/bae9965d-ddf1-421a-8230-8cf000d5bd24" alt="PSA Grading Analytics Dashboard" width="1000">
 
+(View Interactive Dashboard attached below)
+
 ## Motivation
 
 My friend, Taylor, owns a sports cards business. Within his business, he submits cards for grading to PSA (Professional Sports Authenticator). Each card is graded on a scale from 1-10, depending on the quality of four main categories: centering, corners, edges, and surface condition. A higher numerical grade indicates a more prestine card. Thus, cards that receive higher grades are worth exponentially more than their raw (ungraded) value, however, cards that receive a low grade can decrease the value of the card. Additionally, there is a ~$20 fee to grade each card. Therefore, it is important to be selective when deciding which cards to submit. I created this dashboard to help Taylor use analytics to help guide his decision-making.
